@@ -13,7 +13,7 @@ export default function Home() {
       <div className="mx-auto max-w-6xl lg:my-12 md:mb-12">
         <div className="flex flex-col md:flex-row items-center">
           <div>
-            <img className="md:translate-x-12 w-full h-[24rem] md:w-[30rem] md:h-[30rem] object-cover object-top md:rounded-sm" src="lemrich-start-016.jpg"></img>
+            <img className="md:translate-x-12 w-full h-[24rem] md:w-[30rem] md:h-[30rem] object-cover object-top md:rounded-sm" src="lemrich-start-016.jpg" alt="Photo von Dirk Preußner"></img>
           </div>
           <div className="flex flex-col justify-center px-8 py-8 md:p-24 lg:p-28 md:bg-burgund-100 md:w-[32rem] md:h-[32rem] lg:w-[36rem] lg:h-[40rem]">
               <h1 className='text-4xl text-burgund-600 md:text-burgund-900 md:font-semibold pb-4'>Herzlich Willkommen!</h1>
