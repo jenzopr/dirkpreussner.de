@@ -9,7 +9,7 @@ export default function Navbar({children}) {
 
     return(
         <>
-            <nav className="fixed inset-x-0 top-0 z-10 bg-white">
+            <nav className="fixed inset-x-0 top-0 z-20 bg-white">
                 <div className="flex max-w-6xl items-center justify-between w-full mx-auto py-2 px-2 sm:px-6 lg:px-8">
                     <Link href="/"><a>
                         <div className="md:py-2">

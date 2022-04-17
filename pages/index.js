@@ -24,6 +24,40 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <Section className="bg-white">
+        <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
+          <div className="lg:text-center">
+            <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
+              Meine Qualifikationen
+            </p>
+          </div>
+          <ol class="relative border-l border-gray-200 dark:border-gray-700">                  
+            <li class="mb-10 ml-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Goethe-Universität Frankfurt</span>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">BA, MA Erziehungswissenschaften</h3>
+                <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Schwerpunkte: Migration, Jugend- und Erwachsenenbildung, Psychologie und Soziologie.</p>
+            </li>
+            <li class="mb-10 ml-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2-jährige Ausbildung</span>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Spiel- und Theaterpädagoge</h3>
+                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Unter anderem bei Carola Unser, Nicole Amsbeck und Uli Geißler</p>
+            </li>
+            <li class="mb-10 ml-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">praxis-Institut Hanau</span>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Systemisches Arbeiten in Sozialarbeit, Pädagogik, Beratung und Therapie</h3>
+                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Systemischer Berater (DGSF, i.A.)</p>
+            </li>
+            <li class="ml-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Fortbildungen</span>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Gruppendynamik, systemischer und lösungsorientierter Beratung, Wirkungsmanagement, Erlebnispädagogik</h3>
+            </li>
+          </ol>
+        </div>
+      </Section>
       <Section>
         <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
           <h1 className="text-3xl py-4 text-center text-burgund-700">Kontaktieren Sie mich!</h1>
