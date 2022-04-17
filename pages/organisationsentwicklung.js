@@ -55,10 +55,10 @@ export default function Organisationsentwicklung() {
                 <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
                     <div className="lg:text-center">
                         <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
-                        Strategieentwicklung und Change
+                            Strategieentwicklung und Change für soziale Organisationen
                         </p>
                         <p className="mt-4 max-w-3xl text-xl text-gray-700 lg:mx-auto">
-                        Wer sich auf einen Weg macht, hat meistens ein Ziel. Manchmal verändert es sich während der Reise, manchmal geht es schneller, manchmal langsamer. Wenn es notwendig wird, dass Sie ihre Ziele, ihre Fortbewegungsmittel oder ihre Geschwindigkeit ihrer Reise überdenken oder anpassen möchten, unterstütze ich Sie gerne.
+                            Wer sich auf einen Weg macht, hat meistens ein Ziel. Manchmal verändert es sich während der Reise, manchmal geht es schneller, manchmal langsamer. Wenn es notwendig wird, dass Sie ihre Ziele, ihre Fortbewegungsmittel oder ihre Geschwindigkeit ihrer Reise überdenken oder anpassen möchten, unterstütze ich Sie gerne.
                         </p>
                     </div>
                     <div>
@@ -125,7 +125,7 @@ export default function Organisationsentwicklung() {
                 <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
                     <h1 className="text-3xl py-4 text-center text-burgund-700">Benötigen Sie Unterstützung bei der Entwicklung Ihrer Organisation?</h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                        In einem kostenlosen Vorgespräch überlegen wir gemeinsam, wie ich Sie unterstützen kann. Sprechen Sie mich an!
                     </p>
                     <ContactForm></ContactForm>
                 </div>

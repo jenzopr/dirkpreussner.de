@@ -22,6 +22,11 @@ module.exports = {
           800: '#630422',
           900: '#4D051C'
         }
+      },
+      extend: {
+        backgroundImage: {
+          'methodenkoffer': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/tim-gouw-methods.jpg')"
+        }
       }
   },
   plugins: [],
