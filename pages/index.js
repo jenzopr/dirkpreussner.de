@@ -31,29 +31,29 @@ export default function Home() {
               Meine Qualifikationen
             </p>
           </div>
-          <ol class="relative border-l border-gray-200 dark:border-gray-700">                  
-            <li class="mb-10 ml-4">
-                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Goethe-Universität Frankfurt</span>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">BA, MA Erziehungswissenschaften</h3>
-                <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Schwerpunkte: Migration, Jugend- und Erwachsenenbildung, Psychologie und Soziologie.</p>
+          <ol className="relative border-l border-gray-200 dark:border-gray-700">                  
+            <li className="mb-10 ml-4">
+                <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Goethe-Universität Frankfurt</span>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">BA, MA Erziehungswissenschaften</h3>
+                <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Schwerpunkte: Migration, Jugend- und Erwachsenenbildung, Psychologie und Soziologie.</p>
             </li>
-            <li class="mb-10 ml-4">
-                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2-jährige Ausbildung</span>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Spiel- und Theaterpädagoge</h3>
-                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Unter anderem bei Carola Unser, Nicole Amsbeck und Uli Geißler</p>
+            <li className="mb-10 ml-4">
+                <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2-jährige Ausbildung</span>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Spiel- und Theaterpädagoge</h3>
+                <p className="text-base font-normal text-gray-500 dark:text-gray-400">Unter anderem bei Carola Unser, Nicole Amsbeck und Uli Geißler</p>
             </li>
-            <li class="mb-10 ml-4">
-                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">praxis-Institut Hanau</span>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Systemisches Arbeiten in Sozialarbeit, Pädagogik, Beratung und Therapie</h3>
-                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Systemischer Berater (DGSF, i.A.)</p>
+            <li className="mb-10 ml-4">
+                <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">praxis-Institut Hanau</span>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Systemisches Arbeiten in Sozialarbeit, Pädagogik, Beratung und Therapie</h3>
+                <p className="text-base font-normal text-gray-500 dark:text-gray-400">Systemischer Berater (DGSF, i.A.)</p>
             </li>
-            <li class="ml-4">
-                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                <span class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Fortbildungen</span>
-                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Gruppendynamik, systemischer und lösungsorientierter Beratung, Wirkungsmanagement, Erlebnispädagogik</h3>
+            <li className="ml-4">
+                <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Fortbildungen</span>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Gruppendynamik, systemischer und lösungsorientierter Beratung, Wirkungsmanagement, Erlebnispädagogik</h3>
             </li>
           </ol>
         </div>
