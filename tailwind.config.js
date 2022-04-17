@@ -25,7 +25,12 @@ module.exports = {
       },
       extend: {
         backgroundImage: {
-          'methodenkoffer': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/tim-gouw-methods.jpg')"
+          'methodenkoffer': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/tim-gouw-methods.jpg')",
+          'kommunikation': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/jason-goodman-kommunikation.jpg')",
+          'gruppendynamik': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/ulrichw-pixaby-gruppendynamik.jpg')",
+          'fuehrung': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/altnet-pixabay-fuehrung.jpg')",
+          'theater': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/contact-improvisation.jpg')",
+          'reflexion': "linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 1) 100%), url('../public/dirk-reflexion.jpg')",
         }
       }
   },
