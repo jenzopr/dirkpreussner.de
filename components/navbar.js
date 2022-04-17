@@ -36,9 +36,9 @@ export default function Navbar({children}) {
                 </div>
                 <div className={`md:hidden ${expandedMenu? "" : "hidden"}`}>
                     <div className="px-2 pt-2 pb-3 sm:px-6 lg:px-8 space-y-1 text-right border-b-4 border-burgund-500">
-                        <Link href="/beratung-coaching"><a href="#" className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Beratung & Coaching</a></Link>
+                        <Link href="/beratung-coaching"><a href="#" onClick={toggle} className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Beratung & Coaching</a></Link>
                         <Link href="/workshops-moderation"><a href="#" onClick={toggle} className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Workshops & Moderation</a></Link>
-                        <Link href="/organisationsentwicklung"><a href="#" className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Organisationsentwicklung</a></Link>
+                        <Link href="/organisationsentwicklung"><a href="#" onClick={toggle} className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Organisationsentwicklung</a></Link>
                     </div>
                 </div>
             </nav>
