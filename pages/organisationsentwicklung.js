@@ -5,12 +5,12 @@ export default function Organisationsentwicklung() {
     return(
         <>
             <Section>
-                <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
+                <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
                     <div className="lg:text-center">
                         <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
                         Team- und Organisationsentwicklung
                         </p>
-                        <p className="mt-4 max-w-3xl text-xl text-gray-700 lg:mx-auto">
+                        <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
                         Organisationen und Unternehmen leben von und mit ihren Mitarbeiter*innen. Und es ist völlig normal, dass es in sozialen Strukturen manchmal zu Stagnation oder Konflikten kommt. Damit die Lösungen wieder in den Vordergrund rücken können, hilft oftmals der Blick von außen.
                         </p>
                     </div>
@@ -52,12 +52,12 @@ export default function Organisationsentwicklung() {
                 </div>
             </Section>
             <Section className="bg-white">
-                <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
+                <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
                     <div className="lg:text-center">
                         <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
                             Strategieentwicklung und Change für soziale Organisationen
                         </p>
-                        <p className="mt-4 max-w-3xl text-xl text-gray-700 lg:mx-auto">
+                        <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
                             Wer sich auf einen Weg macht, hat meistens ein Ziel. Manchmal verändert es sich während der Reise, manchmal geht es schneller, manchmal langsamer. Wenn es notwendig wird, dass Sie ihre Ziele, ihre Fortbewegungsmittel oder ihre Geschwindigkeit ihrer Reise überdenken oder anpassen möchten, unterstütze ich Sie gerne.
                         </p>
                     </div>
@@ -122,8 +122,8 @@ export default function Organisationsentwicklung() {
                 </div>
             </Section>
             <Section>
-                <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
-                    <h1 className="text-3xl py-4 text-center text-burgund-700">Benötigen Sie Unterstützung bei der Entwicklung Ihrer Organisation?</h1>
+                <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
+                    <h1 className="text-3xl pb-4 text-center text-burgund-700">Benötigen Sie Unterstützung bei der Entwicklung Ihrer Organisation?</h1>
                     <p>
                         In einem kostenlosen Vorgespräch überlegen wir gemeinsam, wie ich Sie unterstützen kann. Sprechen Sie mich an!
                     </p>
