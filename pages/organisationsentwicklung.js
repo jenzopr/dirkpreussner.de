@@ -5,17 +5,17 @@ export default function Organisationsentwicklung() {
     return(
         <>
             <Section>
-                <div classNameName="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
-                    <div classNameName="lg:text-center">
-                        <p classNameName="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
+                <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
+                    <div className="lg:text-center">
+                        <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
                         Team- und Organisationsentwicklung
                         </p>
-                        <p classNameName="mt-4 max-w-3xl text-xl text-gray-700 lg:mx-auto">
+                        <p className="mt-4 max-w-3xl text-xl text-gray-700 lg:mx-auto">
                         Organisationen und Unternehmen leben von und mit ihren Mitarbeiter*innen. Und es ist völlig normal, dass es in sozialen Strukturen manchmal zu Stagnation oder Konflikten kommt. Damit die Lösungen wieder in den Vordergrund rücken können, hilft oftmals der Blick von außen.
                         </p>
                     </div>
                     <div>
-                        <dl classNameName="mt-10 space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                        <dl className="mt-10 space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
                             <div className="relative">
                                 <dt>
                                 <div className="absolute flex items-center justify-center h-12 w-12 rounded-md text-burgund-600">
@@ -29,7 +29,7 @@ export default function Organisationsentwicklung() {
                                     <p>
                                         Gruppen und Teams arbeiten dann besonders gut zusammen, wenn Einzelne Sicherheit und Selbstwirksamkeit erfahren und dem Team ein hoher Grad an Selbststeuerung ermöglicht wird.
                                     </p>
-                                    <p classNameName="mt-2">
+                                    <p className="mt-2">
                                         Gemeinsam mit Ihnen gestalte ich Veranstaltungen wie Teamtage, Reflexionsworkshops oder Formate zur Teamentwicklung, sodass der Fokus (wieder) transparent auf die gemeinsamen Ziele gelenkt wird.
                                     </p>
                                 </dd>
@@ -51,9 +51,9 @@ export default function Organisationsentwicklung() {
                     </div>
                 </div>
             </Section>
-            <Section classNameName="bg-white">
-                <div classNameName="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
-                    <div classNameName="lg:text-center">
+            <Section className="bg-white">
+                <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
+                    <div className="lg:text-center">
                         <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
                         Strategieentwicklung und Change
                         </p>
@@ -62,7 +62,7 @@ export default function Organisationsentwicklung() {
                         </p>
                     </div>
                     <div>
-                        <dl classNameName="mt-10 space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+                        <dl className="mt-10 space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
                             <div className="relative">
                                 <dt>
                                 <div className="absolute flex items-center justify-center h-12 w-12 rounded-md text-burgund-600">
@@ -120,8 +120,8 @@ export default function Organisationsentwicklung() {
                 </div>
             </Section>
             <Section>
-                <div classNameName="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
-                    <h1 classNameName="text-3xl py-4 text-center text-burgund-700">Benötigen Sie Unterstützung bei der Entwicklung Ihrer Organisation?</h1>
+                <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
+                    <h1 className="text-3xl py-4 text-center text-burgund-700">Benötigen Sie Unterstützung bei der Entwicklung Ihrer Organisation?</h1>
                     <p>
                         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
                     </p>
