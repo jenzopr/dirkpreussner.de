@@ -1,15 +1,11 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import Meta from '../components/meta'
 import Section from '../components/section'
 import ContactForm from '../components/contactform'
-import ImageSection from '../components/imagesection'
 
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Herzlich Willkommen!</title>
-      </Head>
+      <Meta title="Dirk Preußner - Beratung & Entwicklung"></Meta>
       <div className="mx-auto max-w-6xl lg:mt-12 md:mb-8 lg:mb-0">
         <div className="flex flex-col md:flex-row items-center">
           <div>
@@ -50,6 +46,11 @@ export default function Home() {
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">praxis-Institut Hanau</span>
                   <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Systemisches Arbeiten in Sozialarbeit, Pädagogik, Beratung und Therapie</h3>
                   <p className="text-base font-normal text-gray-500 dark:text-gray-400">Systemischer Berater (DGSF, i.A.)</p>
+              </li>
+              <li className="mb-10 ml-4">
+                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                  <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Berufserfahrung</span>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Langjährige Erfahrung im Non-Profit-Sektor und Sozialbereich als Referent und in Leitungsfunktionen</h3>
               </li>
               <li className="ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>

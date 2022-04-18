@@ -1,9 +1,11 @@
+import Meta from "../components/meta"
 import Section from "../components/section"
 import ContactForm from "../components/contactform"
 
 export default function Workshops() {
     return(
         <>
+            <Meta title="Dirk Preußner - Workshops & Moderation"></Meta>
             <Section className="bg-white">
             <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
                 <div className="lg:text-center">

@@ -1,9 +1,11 @@
+import Meta from "../components/meta";
 import ContactForm from "../components/contactform";
 import Section from "../components/section";
 
 export default function Beratung() {
     return(
         <>
+        <Meta title="Dirk Preußner - Beratung & Coaching"></Meta>
         <Section className="bg-white">
             <div className="flex flex-col w-full lg:justify-center pb-8 lg:py-16">
                 <div className="lg:text-center">

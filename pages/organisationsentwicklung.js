@@ -1,9 +1,11 @@
+import Meta from "../components/meta"
 import Section from "../components/section"
 import ContactForm from "../components/contactform"
 
 export default function Organisationsentwicklung() {
     return(
         <>
+            <Meta title="Dirk Preußner - Organisationsentwicklung"></Meta>
             <Section>
                 <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
                     <div className="lg:text-center">
@@ -114,7 +116,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">New Work</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Was heißt eigentlich New Work, hybride Kollaboration und agiles Arbeiten für soziale Organisationen? Um der Veränderung zu begegnen, braucht es Wissen und Ideen zur Implementierung in ihre bestehenden Systeme. Lassen Sie uns gemeinsam eine Idee entwickeln, was das für Sie und ihre Organisation heißen kann. 
+                                    Was heißt eigentlich New Work, hybride Kollaboration und agiles Arbeiten für soziale Organisationen? Um der (digitalen) Veränderung zu begegnen, braucht es Haltung, Wissen und Ideen zur Implementierung in ihre bestehenden Systeme. Wie eine Anpassung an neue digitale Tools oder die digitale Transformation in sozialen Organisationen gelingen kann, entwickle ich gerne mit Ihnen und ihren Mitarbeiter*innen. 
                                 </dd>
                             </div>
                         </dl>
