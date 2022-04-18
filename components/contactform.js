@@ -56,8 +56,7 @@ export default function ContactForm() {
               <label htmlFor="message" className="sr-only">Ihre Nachricht an mich</label>
               <textarea id="message" name="message" rows="5" className="w-full px-3 py-2 rounded border focus:outline-none focus:ring-burgund-500 focus:border-burgund-500" placeholder="Ihre Nachricht an mich"></textarea>
             </div>
-
-            <div className="lg:col-span-2">
+            <div className="mt-2 lg:col-span-2">
               <button disabled={status != 'ready'} className={`w-full justify-center text-white font-normal py-2 px-6 lg:px-8 xl:py-3 rounded shadow inline-flex items-center ${status != 'sent' ? "bg-burgund-600 hover:bg-burgund-700 disabled:cursor-wait disabled:bg-burgund-700" : "bg-green-600 cursor-not-allowed"}`}>
                 {status == 'sent' ? checkSVG : messageSVG}
                 {buttonLabel}
