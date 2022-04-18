@@ -46,7 +46,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Moderation</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                Als Moderation begleite ich ihre Veranstaltung zielgerichtet und mit Blick auf den zeitlichen Rahmen. Mit einer konstruktiven und kreativen Atmosphäre, Humor und Methoden entwickeln wir konkrete Absprachen, die vom gesamten Team auch in herausfordernden Situationen getragen werden können.
+                                    Als Moderation begleite ich ihre Veranstaltung zielgerichtet und mit Blick auf den zeitlichen Rahmen. Mit einer konstruktiven und kreativen Atmosphäre, Humor und Methoden entwickeln wir konkrete Absprachen, die vom gesamten Team auch in herausfordernden Situationen getragen werden können.
                                 </dd>
                             </div>
                         </dl>

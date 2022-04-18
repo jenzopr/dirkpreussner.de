@@ -20,7 +20,7 @@ export default function Beratung() {
                     </p>
                     <h3 className="my-8 text-xl font-medium text-burgund-700">Ich biete Ihnen bei persönlichen Herausforderungen und Problemsituationen Unterstützung an.</h3>
                     <p className="text-lg max-w-3xl text-gray-700 lg:mx-auto">
-                        Dabei geht es darum, eine Bewältigungsstrategie für die aktuelle Krise zu finden und eigene Denk- und Handlungsmuster zu verstehen. Ich möchte Sie einladen, Ihre Ressourcen zu entdecken und ihre Handlungsmöglichkeiten zu erweitern.
+                        Dabei begleite ich Sie, eine Bewältigungsstrategie für Ihre aktuelle Krise zu finden und Ihre eigenen Denk- und Handlungsmuster besser zu verstehen. Ich möchte Sie einladen, Ihre Ressourcen neu zu entdecken Ihre Handlungsmöglichkeiten zu erweitern.
                     </p>
                 </div>
             </div>
