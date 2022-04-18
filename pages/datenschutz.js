@@ -1,6 +1,6 @@
 import Meta from "../components/meta";
 import Section from "../components/section";
-import Link from "next/link";
+import Link from 'next/link';
 
 export default function Datenschutz() {
     return(
@@ -13,15 +13,15 @@ export default function Datenschutz() {
                         Stand: 18. April 2022
                     </span>
                     <h2 className="text-xl mt-2 mb-1">Einleitung</h2>
-                    <p className="">
-                        Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als "Onlineangebot“).
+                    <p>
+                        Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &quot;Daten&quot; bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als &quot;Onlineangebot&quot;).
                         Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
                     </p>
                     <h2 className="text-xl mt-2 mb-1">Verantwortlicher</h2>
-                        <p className="">Dirk Preußner</p>
-                        <p className="">Nibelungenallee 55</p>
-                        <p className="">60318 Frankfurt am Main</p>
-                        <p className="mt-2 ">E-Mail-Adresse: hallo@dirkpreussner.de</p>
+                        <p>Dirk Preußner</p>
+                        <p>Nibelungenallee 55</p>
+                        <p>60318 Frankfurt am Main</p>
+                        <p className="mt-2">E-Mail-Adresse: hallo@dirkpreussner.de</p>
                     <h2 className="text-xl mt-2 mb-1">Übersicht der Verarbeitungen</h2>
                         <p>Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.</p>
                     <h3 className="font-semibold mt-2 mb-1">Arten der verarbeiteten Daten</h3>
@@ -104,7 +104,7 @@ export default function Datenschutz() {
                                 <span className="font-semibold">Erhebung von Zugriffsdaten und Logfiles:</span> Wir selbst (bzw. unser Webhostinganbieter) erheben Daten zu jedem Zugriff auf den Server (sogenannte Serverlogfiles). Zu den Serverlogfiles können die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z.B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; Löschung von Daten: Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
                             </li>
                             <li>
-                                <span className="font-semibold">Content-Delivery-Network:</span> Wir setzen ein "Content-Delivery-Network" (CDN) ein. Ein CDN ist ein Dienst, mit dessen Hilfe Inhalte eines Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Programm-Skripte, mit Hilfe regional verteilter und über das Internet verbundener Server schneller und sicherer ausgeliefert werden können.
+                                <span className="font-semibold">Content-Delivery-Network:</span> Wir setzen ein &quot;Content-Delivery-Network&quot; (CDN) ein. Ein CDN ist ein Dienst, mit dessen Hilfe Inhalte eines Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Programm-Skripte, mit Hilfe regional verteilter und über das Internet verbundener Server schneller und sicherer ausgeliefert werden können.
                             </li>
                         </ul>
                     <h2 className="text-xl mt-2 mb-1">Kontakt- und Anfragenverwaltung</h2>
@@ -166,13 +166,13 @@ export default function Datenschutz() {
                         </p>
                         <ul className="mt-2 pl-8 list-disc">
                             <li>
-                                <span className="font-semibold">Personenbezogene Daten:</span> "Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden "betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
+                                <span className="font-semibold">Personenbezogene Daten:</span> &quot;Personenbezogene Daten&quot; sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden &quot;betroffene Person&quot;) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
                             </li>
                             <li>
-                                <span className="font-semibold">Verantwortlicher:</span> Als "Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
+                                <span className="font-semibold">Verantwortlicher:</span> Als &quot;Verantwortlicher&quot; wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
                             </li>
                             <li>
-                                <span className="font-semibold">Verarbeitung:</span> "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.
+                                <span className="font-semibold">Verarbeitung:</span> &quot;Verarbeitung&quot; ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.
                             </li>
                         </ul>
                     <span className="mt-2 text-xs">
