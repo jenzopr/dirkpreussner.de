@@ -9,7 +9,7 @@ export default function Organisationsentwicklung() {
             <Section>
                 <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
                     <div className="lg:text-center">
-                        <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
+                        <p className="mt-2 text-3xl leading-8 tracking-tight text-burgund-800 sm:text-4xl">
                         Team- und Organisationsentwicklung
                         </p>
                         <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
@@ -56,7 +56,7 @@ export default function Organisationsentwicklung() {
             <Section className="bg-white">
                 <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
                     <div className="lg:text-center">
-                        <p className="mt-2 text-3xl leading-8 tracking-tight text-gray-900 sm:text-4xl">
+                        <p className="mt-2 text-3xl leading-8 tracking-tight text-burgund-700 sm:text-4xl">
                             Strategieentwicklung und Change für soziale Organisationen
                         </p>
                         <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
