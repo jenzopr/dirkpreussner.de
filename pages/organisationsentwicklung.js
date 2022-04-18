@@ -46,7 +46,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Moderation</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Als Moderation begleite ich ihre Veranstaltung zielgerichtet und mit Blick auf den zeitlichen Rahmen. Mit einer konstruktiven und kreativen Atmosphäre, Humor und Methoden entwickeln wir konkrete Absprachen, die vom gesamten Team auch in herausfordernden Situationen getragen werden können.
+                                    Als Moderation begleite ich Ihre Veranstaltung zielgerichtet und mit Blick auf den zeitlichen Rahmen. Mit einer konstruktiven und kreativen Atmosphäre, Humor und Methoden entwickeln wir konkrete Absprachen, die vom gesamten Team auch in herausfordernden Situationen getragen werden können.
                                 </dd>
                             </div>
                         </dl>
@@ -60,7 +60,7 @@ export default function Organisationsentwicklung() {
                             Strategieentwicklung und Change für soziale Organisationen
                         </p>
                         <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                            Wer sich auf einen Weg macht, hat meistens ein Ziel. Manchmal verändert es sich während der Reise, manchmal geht es schneller, manchmal langsamer. Wenn es notwendig wird, dass Sie ihre Ziele, ihre Fortbewegungsmittel oder ihre Geschwindigkeit ihrer Reise überdenken oder anpassen möchten, unterstütze ich Sie gerne.
+                            Wer sich auf einen Weg macht, hat meistens ein Ziel. Manchmal verändert es sich während der Reise, manchmal geht es schneller, manchmal langsamer. Wenn es notwendig wird, dass Sie Ihre Ziele, Ihre Fortbewegungsmittel oder Ihre Geschwindigkeit Ihrer Reise überdenken oder anpassen möchten, unterstütze ich Sie gerne.
                         </p>
                     </div>
                     <div>
@@ -116,7 +116,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">New Work</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Was heißt eigentlich New Work, hybride Kollaboration und agiles Arbeiten für soziale Organisationen? Um der (digitalen) Veränderung zu begegnen, braucht es Haltung, Wissen und Ideen zur Implementierung in ihre bestehenden Systeme. Wie eine Anpassung an neue digitale Tools oder die digitale Transformation in sozialen Organisationen gelingen kann, entwickle ich gerne mit Ihnen und ihren Mitarbeiter*innen. 
+                                    Was heißt eigentlich New Work, hybride Kollaboration und agiles Arbeiten für soziale Organisationen? Um der (digitalen) Veränderung zu begegnen, braucht es Haltung, Wissen und Ideen zur Implementierung in ihre bestehenden Systeme. Wie eine Anpassung an neue digitale Tools oder die digitale Transformation in sozialen Organisationen gelingen kann, entwickle ich gerne mit Ihnen und Ihren Mitarbeiter*innen. 
                                 </dd>
                             </div>
                         </dl>

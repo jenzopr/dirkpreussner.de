@@ -27,7 +27,7 @@ export default function Workshops() {
                                 Gruppendynamik
                             </h3>
                             <div className="mt-2 text-gray-700 hidden group-hover:block">
-                                Als Leitung von Arbeitsgruppen, Teams oder Seminaren müssen Sie immer wieder neu entscheiden, ob sie leiten oder die Selbststeuerungskräfte der Gruppe nutzen möchten. In meinen Workshops lernen Sie, wie sie diese sensible Balance halten und entwickeln können.
+                                Als Leitung von Arbeitsgruppen, Teams oder Seminaren müssen Sie immer wieder neu entscheiden, ob Sie leiten oder die Selbststeuerungskräfte der Gruppe nutzen möchten. In meinen Workshops lernen Sie, wie Sie diese sensible Balance halten und entwickeln können.
                             </div>
                         </div>
                     </div>
@@ -49,7 +49,7 @@ export default function Workshops() {
                                 Führung & Leitung
                             </h3>
                             <div className="mt-2 text-gray-700 hidden group-hover:block">
-                                Führung und Leitung anders denken – innovativ, verbunden und mit viel Perspektivwechsel. Sie lernen in meinen Veranstaltungen, wie Vertrauen, Wertschätzung und Kooperation in Führungshandeln gelingt – und wie sie als Leitung persönlich wachsen. 
+                                Führung und Leitung anders denken – innovativ, verbunden und mit viel Perspektivwechsel. Sie lernen in meinen Veranstaltungen, wie Vertrauen, Wertschätzung und Kooperation in Führungshandeln gelingt – und wie Sie als Leitung persönlich wachsen. 
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@ export default function Workshops() {
                 <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
                     <h1 className="text-3xl pb-4 text-center text-burgund-700">Informieren Sie sich jetzt über ein individuelles Konzept!</h1>
                     <p>
-                    Ich gestalte mit ihnen Konzepte und Seminare zu aktuellen und spezifischen Themen auf ihren Bedarf zugeschnitten. Wenn sie ein individuelles Konzept besprechen möchten, kontaktieren Sie mich!
+                    Ich gestalte mit Ihnen Konzepte und Seminare zu aktuellen und spezifischen Themen auf Ihren Bedarf zugeschnitten. Wenn Sie ein individuelles Konzept besprechen möchten, kontaktieren Sie mich!
                     </p>
                     <ContactForm></ContactForm>
                 </div>
