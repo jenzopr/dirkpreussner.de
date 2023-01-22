@@ -18,9 +18,12 @@ export default function Beratung() {
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
                         Wenn Sie für sich eine neue Perspektive auf den Umgang mit privaten oder beruflichen Belastungen finden möchten, wenn Sie sich in Ihren Rollen abgrenzen oder stärken möchten oder wenn Sie mehr Antworten als Fragen haben, kann Unterstützung von außen zur Perspektiverweiterung und zur Entwicklung von alternativen Lösungsmöglichkeiten hilfreich sein.
                     </p>
-                    <h3 className="my-8 text-xl font-medium text-burgund-700">Ich biete Ihnen bei persönlichen Herausforderungen und Problemsituationen Unterstützung an.</h3>
+                    <h3 className="my-8 text-xl font-medium text-burgund-700">Ich biete Ihnen bei persönlichen Herausforderungen und Problemsituationen Unterstützung in Form von systemischer Beratung (DGSF) und Coachings an.</h3>
                     <p className="text-lg max-w-3xl text-gray-700 lg:mx-auto">
                         Dabei begleite ich Sie, eine Bewältigungsstrategie für Ihre aktuelle Krise zu finden und Ihre eigenen Denk- und Handlungsmuster besser zu verstehen. Ich möchte Sie einladen, Ihre Ressourcen neu zu entdecken Ihre Handlungsmöglichkeiten zu erweitern.
+                    </p>
+                    <p className="text-lg max-w-3xl text-gray-700 lg:mx-auto">
+                        Für mich stehen die individuellen Bedürfnisse und Wünsche der Klient*innen im Mittelpunkt meiner Arbeit. Ich lege darauf Wert, Ihr Anliegen in Verbindung mit Ihrem sozialen Umfeld und ihrem sozialen Familien-, Partnerschafts- oder Arbeitssystem zu betrachten - und Sie darin zu unterstützen, konkrete Veränderung auszuprobieren. 
                     </p>
                 </div>
             </div>
