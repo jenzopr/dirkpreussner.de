@@ -33,36 +33,36 @@ export default function Home() {
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">praxis-Institut Hanau</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Systemisches Arbeiten in Sozialarbeit, Pädagogik, Beratung und Therapie</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-400">Systemisches Arbeiten in Sozialarbeit, Pädagogik, Beratung und Therapie</h3>
                   <p className="text-base font-normal text-gray-500 dark:text-gray-400">Systemischer Berater (DGSF)</p>
               </li>
                <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">pecon-Akademie Mannheim</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Experte für Prozessmanagement und Gruppendynamik</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-400">Experte für Prozessmanagement und Gruppendynamik</h3>
                   <p className="text-base font-normal text-gray-500 dark:text-gray-400">Ausbildung zum gruppendynamischen Leiter (2022-2024)</p>
               </li>
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Bundesverband Kulturarbeit in der ev. Jugend e.V.</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Spiel- und Theaterpädagoge (bka)</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-400">Spiel- und Theaterpädagoge (bka)</h3>
                   <p className="text-base font-normal text-gray-500 dark:text-gray-400">2-jährige Ausbildung, u.a. bei Carola Unser, Nicole Amsbeck und Uli Geißler</p>
               </li>                  
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Goethe-Universität Frankfurt</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">BA, MA Erziehungswissenschaft</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-400">BA, MA Erziehungswissenschaft</h3>
                   <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Schwerpunkte: Migration, Jugend- und Erwachsenenbildung, Psychologie und Soziologie</p>
               </li>
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Berufserfahrung</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Langjährige Erfahrung im Non-Profit-Sektor und Sozialbereich als Referent und in Leitungsfunktionen</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-400">Langjährige Erfahrung im Non-Profit-Sektor und Sozialbereich als Referent und in Leitungsfunktionen</h3>
               </li>
               <li className="ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Fortbildungen</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Gruppendynamik, systemische und lösungsorientierte Beratung, Wirkungsmanagement, Erlebnispädagogik</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-400">Gruppendynamik, systemische und lösungsorientierte Beratung, Wirkungsmanagement, Erlebnispädagogik</h3>
               </li>
             </ol>
           </div>
