@@ -13,7 +13,7 @@ export default function Beratung() {
                         Beratung & Coaching
                     </p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                        Jeder von uns bringt Ressourcen mit, um Herausforderungen innerhalb seiner bestehenden Arbeits- oder Familiensysteme zu bearbeiten. Es gibt jedoch Situationen, in denen uns bekannte Lösungsversuche nicht zum gewünschten Erfolg führen. Das führt oft zu Verunsicherung oder Konflikten und bringt ein System aus dem Gleichgewicht.
+                        Jede*r von uns bringt Ressourcen mit, um Herausforderungen innerhalb seiner bestehenden Arbeits- oder Familiensysteme zu bearbeiten. Es gibt jedoch Situationen, in denen uns bekannte Lösungsversuche nicht zum gewünschten Erfolg führen. Das führt oft zu Verunsicherung oder Konflikten und bringt ein System aus dem Gleichgewicht.
                     </p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
                         Wenn Sie für sich eine neue Perspektive auf den Umgang mit privaten oder beruflichen Belastungen finden möchten, wenn Sie sich in Ihren Rollen abgrenzen oder stärken möchten oder wenn Sie mehr Antworten als Fragen haben, kann Unterstützung von außen zur Perspektiverweiterung und zur Entwicklung von alternativen Lösungsmöglichkeiten hilfreich sein.
