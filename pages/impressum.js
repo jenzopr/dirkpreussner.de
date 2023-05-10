@@ -19,7 +19,7 @@ export default function Impressum() {
                     <h2 className="text-xl mt-2 mb-1">Bildnachweise</h2>
                         <p className="">Bildquellen und Urheberrechtshinweise:</p>
                         <ul className="mt-2 pl-8 list-disc">
-                            <li>Kopfgrafik <Link href="/"><a className="underline text-burgund-600">Startseite</a></Link>: LÊMRICH</li>
+                            <li>Kopfgrafik <Link href="/"><a className="underline text-burgund-600">Startseite</a></Link>: Dominik Bingel</li>
                             <li>Stock-Fotos <Link href="/workshops-moderation"><a className="underline text-burgund-600">Workshops</a></Link>: pixabay, unsplash, Dirk Preußner</li>
                         </ul>
                     <span className="mt-2 text-xs">
