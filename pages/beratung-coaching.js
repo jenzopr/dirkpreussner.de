@@ -51,7 +51,7 @@ export default function Beratung() {
                             </dt>
                             <dd className="mt-2 ml-14 text-base text-gray-700">
                                 <p className="">
-                                    Mein Stundensatz für eine Einzelberatung liegt bei 80€ / 60 Minuten und 100€ / 90 Minuten.
+                                    Mein Stundensatz für eine Einzelberatung liegt bei 100€ / 60 Minuten und 130€ / 90 Minuten.
                                 </p>
                             </dd>
                         </div>
@@ -65,7 +65,7 @@ export default function Beratung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Systemische Familienberatung</p>
                             </dt>
                             <dd className="mt-2 ml-14 text-base text-gray-700">
-                                Mein Stundensatz für eine Familienberatung liegt bei 100€ / 60 Minuten und 120€ / 90 Minuten.
+                                Mein Stundensatz für eine Familienberatung liegt bei 120€ / 60 Minuten und 140€ / 90 Minuten.
                             </dd>
                         </div>
                     </dl>

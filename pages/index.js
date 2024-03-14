@@ -14,7 +14,7 @@ export default function Home() {
           <div className="flex flex-col justify-center px-8 py-8 md:p-24 lg:p-28 md:bg-burgund-100 md:w-[32rem] md:h-[32rem] lg:w-[36rem] lg:h-[40rem]">
               <h1 className='text-4xl text-burgund-600 md:text-burgund-900 md:font-semibold pb-4'>Herzlich Willkommen!</h1>
               <div className='lg:text-lg text-gray-700'>
-                Mein Angebot umfasst systemische Beratung (DGSF), Coaching, Trainings oder Workshops für Einzelpersonen, soziale Organisationen oder Unternehmen.
+                Mein Angebot umfasst Coaching und systemische Beratung (DGSF) für Einzelpersonen und Supervision als gruppendynamischer Leiter (DGGO) für Gruppen und Teams, soziale Organisationen oder Unternehmen.
                 In der systemischen Einzelberatung biete ich Ihnen Unterstützung auf der Suche nach neuen Perspektiven in herausfordernden Lebenssituationen an. Dabei geht es um die Entwicklung von Verständnis für die bestehenden Handlungs- und Denkmuster und die Erweiterung des eigenen Handlungsspielraumes.
                 Meine Arbeit gestalte ich im Dialog mit Ihnen: angepasst an Ihre Situation und Ihren Bedarf. Online und offline, bei Ihnen vor Ort oder in einem Tagungshaus. 
               </div>
@@ -32,15 +32,15 @@ export default function Home() {
             <ol className="relative border-l border-gray-200 dark:border-gray-700">
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                  <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">pecon-Akademie Mannheim</span>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Gruppendynamischer Leiter (DGGO)</h3>
+                  <p className="text-base font-normal text-gray-500 dark:text-gray-400">Experte für Prozessmanagement und Gruppendynamik</p>
+              </li>
+              <li className="mb-10 ml-4">
+                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">praxis-Institut Hanau</span>
                   <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Systemischer Berater (DGSF)</h3>
                   <p className="text-base font-normal text-gray-500 dark:text-gray-400">Systemisches Arbeiten in Sozialarbeit, Pädagogik, Beratung und Therapie</p>
-              </li>
-               <li className="mb-10 ml-4">
-                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                  <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">pecon-Akademie Mannheim</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Experte für Prozessmanagement und Gruppendynamik</h3>
-                  <p className="text-base font-normal text-gray-500 dark:text-gray-400">Ausbildung zum gruppendynamischen Leiter (2022-2024)</p>
               </li>
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
@@ -62,7 +62,7 @@ export default function Home() {
               <li className="ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Fortbildungen</span>
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Gruppendynamik, systemische und lösungsorientierte Beratung, Wirkungsmanagement, Erlebnispädagogik</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Lösungsorientierte Beratung, Wirkungsmanagement, Erlebnispädagogik</h3>
               </li>
             </ol>
           </div>
