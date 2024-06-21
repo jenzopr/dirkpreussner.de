@@ -11,8 +11,9 @@ export default function Impressum() {
                     <h1 className="text-burgund-600 text-3xl">Impressum</h1>
                     <h2 className="text-xl mt-2 mb-1">Diensteanbieter</h2>
                         <p className="">Dirk Preußner</p>
-                        <p className="">Nibelungenallee 55</p>
-                        <p className="">60318 Frankfurt am Main</p>
+                        <p className="">c/o Praxis Trenkwalder</p>
+                        <p className="">Burnitzstr. 2</p>
+                        <p className="">60596 Frankfurt am Main</p>
                     <h2 className="text-xl mt-2 mb-1">Kontaktmöglichkeiten</h2>
                         <p>E-Mail-Adresse: hallo@dirkpreussner.de</p>
                         <p className="mt-2">Kontaktformular auf der <Link href="/"><a className="underline text-burgund-600">Startseite</a></Link></p>
