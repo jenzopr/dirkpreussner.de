@@ -19,8 +19,9 @@ export default function Datenschutz() {
                     </p>
                     <h2 className="text-xl mt-2 mb-1">Verantwortlicher</h2>
                         <p>Dirk Preußner</p>
-                        <p>Nibelungenallee 55</p>
-                        <p>60318 Frankfurt am Main</p>
+                        <p>c/o Psychotherapeutische Praxisgemeinschaft</p>
+                        <p>Kaiserstraße 69</p>
+                        <p>60329 Frankfurt am Main</p>
                         <p className="mt-2">E-Mail-Adresse: hallo@dirkpreussner.de</p>
                     <h2 className="text-xl mt-2 mb-1">Übersicht der Verarbeitungen</h2>
                         <p>Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.</p>
