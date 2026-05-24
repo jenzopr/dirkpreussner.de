@@ -1,5 +1,6 @@
 import Navbar from './navbar'
 import Footer from './footer'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function Layout({ children }) {
   return (
