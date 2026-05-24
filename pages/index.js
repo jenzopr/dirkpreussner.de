@@ -11,12 +11,11 @@ export default function Home() {
           <div>
             <img className="md:translate-x-12 w-full h-[24rem] md:w-[30rem] md:h-[30rem] object-cover object-top md:rounded-sm" src="_DBP9043-Bearbeitet2.jpg" alt="Photo von Dirk Preußner"></img>
           </div>
-          <div className="flex flex-col justify-center px-8 py-8 md:p-24 lg:p-28 md:bg-burgund-100 md:w-[32rem] md:h-[32rem] lg:w-[36rem] lg:h-[40rem]">
-              <h1 className='text-4xl text-burgund-600 md:text-burgund-900 md:font-semibold pb-4'>Herzlich Willkommen!</h1>
+          <div className="flex flex-col justify-center px-8 py-8 md:p-20 lg:p-24 md:bg-burgund-100 md:w-[32rem] md:h-[32rem] lg:w-[36rem] lg:h-[40rem]">
+              <h1 className='text-2xl lg:text-4xl text-burgund-600 md:text-burgund-900 md:font-semibold pb-4'>Veränderung braucht manchmal Begleitung.</h1>
               <div className='lg:text-lg text-gray-700'>
-                Mein Angebot umfasst Coaching und systemische Beratung (DGSF) für Einzelpersonen und Supervision als gruppendynamischer Leiter (DGGO) für Gruppen und Teams, soziale Organisationen oder Unternehmen.
-                In der systemischen Einzelberatung biete ich Ihnen Unterstützung auf der Suche nach neuen Perspektiven in herausfordernden Lebenssituationen an. Dabei geht es um die Entwicklung von Verständnis für die bestehenden Handlungs- und Denkmuster und die Erweiterung des eigenen Handlungsspielraumes.
-                Meine Arbeit gestalte ich im Dialog mit Ihnen: angepasst an Ihre Situation und Ihren Bedarf. Online und offline, bei Ihnen vor Ort oder in einem Tagungshaus. 
+                <p>Vielleicht läuft ein Konflikt in Ihrem Team schon zu lange. Vielleicht haben Sie eine neue Führungsrolle übernommen und fragen sich, wie Sie die richtig ausfüllen. Vielleicht suchen Sie Unterstützung bei einem persönlichen Anliegen, in der Familie oder in einer Lebensphase, die sich gerade bei Ihnen verändert.</p>
+                <p>Als Berater und Supervisor begleite ich Menschen und Teams im Bildungs-, Sozial- und Non-Profit-Bereich und Einzelpersonen in beruflichen wie persönlichen Situationen, mit ganz unterschiedlichen Anliegen.</p>
               </div>
           </div>
         </div>
@@ -24,9 +23,29 @@ export default function Home() {
       <Section className="bg-white px-4">
         <div className="flex flex-col w-full lg:justify-center pb-8 lg:pt-16">
           <div className="">
-            <p className="text-3xl leading-8 tracking-tight text-gray-900">
-              Meine Qualifikationen
+            <h1 className="text-2xl lg:text-3xl leading-8 tracking-tight text-gray-900">
+              Was Menschen zu mir bringt
+            </h1>
+            <p className="mt-4 lg:mt-8">
+              Teams kommen zu mir, weil sie nicht mehr richtig zusammenarbeiten, weil Rollen unklar sind, Entscheidungen nicht getragen werden oder sich Konfliktmuster wiederholen.
             </p>
+            <p className="mt-2 lg:mt-4">
+              Führungskräfte suchen Unterstützung beim Wechsel in eine Leitungsfunktion, wenn die eigene Rolle neu ausgehandelt werden muss oder unterschiedliche Erwartungen aus der Organisation schwer zu vereinbaren sind.
+            </p>
+            <p className="mt-2 lg:mt-4">
+              Einzelpersonen nutzen den geschützten Raum, um die eigene Arbeit zu reflektieren und handlungsfähig zu bleiben, oder bringen ein persönliches Anliegen mit: familiär, biografisch oder die Frage, wie es weitergehen soll.
+            </p>
+            <p className="mt-2 lg:mt-4 font-medium text-burgund-700">
+              Was diese Anliegen verbindet: der Wunsch nach mehr Klarheit, Handlungsfähigkeit und Orientierung.
+            </p>
+            <p className="mt-2 lg:mt-4">
+              Mit diesen Anliegen arbeite ich systemisch und prozessorientiert, im Dialog mit Ihnen, angepasst an Ihre Situation und Ihren Bedarf. Ich unterstütze Sie dabei, eigene Lösungen zu entwickeln. Online oder vor Ort, als Einzelbegleitung oder mit dem ganzen Team.
+            </p>
+          </div>
+          <div className="mt-4 lg:mt-8">
+            <h1 className="text-2xl lg:text-3xl leading-8 tracking-tight text-gray-900">
+              Meine Qualifikationen
+            </h1>
           </div>
           <div className="pl-2 py-4 lg:py-8">
             <ol className="relative border-l border-gray-200 dark:border-gray-700">
@@ -70,9 +89,9 @@ export default function Home() {
       </Section>
       <Section>
         <div className="flex flex-col w-full lg:justify-center py-8">
-          <h1 className="text-3xl pb-4 text-center text-burgund-700">Kontaktieren Sie mich!</h1>
+          <h1 className="text-2xl lg:text-3xl pb-4 text-center text-burgund-700">Lassen Sie uns ins Gespräch kommen.</h1>
           <p>
-            In einem unverbindlichen Vorgespräch können wir gemeinsam herausfinden, wie wir ihr Anliegen wirkungsvoll und nachhaltig bearbeiten können.
+            Schreiben Sie mir kurz, was Sie oder Ihr Team gerade beschäftigt. In einem ersten, unverbindlichen Gespräch von ca. 30 Minuten schauen wir gemeinsam, wie ich Sie unterstützen kann.
           </p>
           <ContactForm></ContactForm>
         </div>          

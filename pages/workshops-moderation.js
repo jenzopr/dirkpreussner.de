@@ -13,10 +13,13 @@ export default function Workshops() {
                         Individuelle Workshops & Moderationen
                     </p>
                     <p className="max-w-3xl mt-4 text-lg text-gray-700 lg:mx-auto">
-                        In meinen Fortbildungen zur Arbeit mit Gruppen und Teams arbeite ich prozessorientiert und erfahrungsbezogen. Dort schaffe ich einen Lern- und Aktionsraum, in dem sich Teilnehmer*innen ausprobieren können und neue Rollen entdecken können. Ich arbeite mit einem ganzheitlichen Lernansatz und unter starker Berücksichtigung der Gruppendynamik.
+                        Jeder Workshop entsteht aus dem konkreten Bedarf heraus – und wird gemeinsam mit Ihnen entwickelt. Zugeschnitten auf Ihre Gruppe, Ihr Thema und Ihre Situation.
                     </p>
                     <p className="mt-4 text-lg text-gray-700">
-                        Zu folgenden Themen biete ich Ihnen gerne individuelle Workshops an: 
+                        Ich arbeite prozessorientiert, erfahrungsbezogen und mit einem guten Gespür für Gruppendynamik.
+                    </p>
+                    <p className="mt-4 text-lg text-gray-700">
+                        Thematisch bewege ich mich in den Bereichen Gruppendynamik, Kommunikation, Führung und Leitung, Theaterpädagogik, Methodenkompetenz und Reflexion – gerne auch zu Themen, die sich aus Ihrem konkreten Kontext ergeben. 
                     </p>
                 </div>
                 <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -91,9 +94,9 @@ export default function Workshops() {
             </Section>
             <Section>
                 <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
-                    <h1 className="text-3xl pb-4 text-center text-burgund-700">Informieren Sie sich jetzt über ein individuelles Konzept!</h1>
+                    <h1 className="text-3xl pb-4 text-center text-burgund-700">Lassen Sie uns ins Gespräch kommen.</h1>
                     <p>
-                    Ich gestalte mit Ihnen Konzepte und Seminare zu aktuellen und spezifischen Themen auf Ihren Bedarf zugeschnitten. Wenn Sie ein individuelles Konzept besprechen möchten, kontaktieren Sie mich!
+                        Schreiben Sie mir kurz, was in Ihrer Gruppe oder Ihrem Team gerade ansteht. In einem ersten, unverbindlichen Gespräch entwickeln wir gemeinsam eine erste Idee für Ihr Format.
                     </p>
                     <ContactForm></ContactForm>
                 </div>

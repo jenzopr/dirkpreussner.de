@@ -13,7 +13,7 @@ export default function Organisationsentwicklung() {
                         Team- und Organisationsentwicklung
                         </p>
                         <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                        Organisationen und Unternehmen leben von und mit ihren Mitarbeiter*innen. Und es ist völlig normal, dass es in sozialen Strukturen manchmal zu Stagnation oder Konflikten kommt. Damit die Lösungen wieder in den Vordergrund rücken können, hilft oftmals der Blick von außen.
+                            In Organisationen und Teams läuft vieles gut – und manchmal gerät etwas ins Stocken. Gerade im Bildungs-, Sozial- und Non-Profit-Bereich kommen dabei besondere Herausforderungen hinzu: knappe Ressourcen, hoher Anspruch und komplexe Strukturen. Ein Blick von außen kann helfen, wieder Klarheit und Bewegung zu gewinnen.
                         </p>
                     </div>
                     <div>
@@ -29,10 +29,10 @@ export default function Organisationsentwicklung() {
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
                                     <p>
-                                        Gruppen und Teams arbeiten dann besonders gut zusammen, wenn Einzelne Sicherheit und Selbstwirksamkeit erfahren und dem Team ein hoher Grad an Selbststeuerung ermöglicht wird.
+                                        Teams arbeiten dann besonders gut zusammen, wenn Einzelne in ihrer Rolle Sicherheit und Selbstwirksamkeit erfahren und das Team als Ganzes eigenständig handeln kann.
                                     </p>
                                     <p className="mt-2">
-                                        Gemeinsam mit Ihnen gestalte ich Veranstaltungen wie Teamtage, Reflexionsworkshops oder Formate zur Teamentwicklung, sodass der Fokus (wieder) transparent auf die gemeinsamen Ziele gelenkt wird.
+                                        Gemeinsam mit Ihnen gestalte ich Teamtage, Reflexionsworkshops oder andere Formate zur Teamentwicklung, so dass der Blick wieder auf die gemeinsamen Ziele gerichtet werden kann.
                                     </p>
                                 </dd>
                             </div>
@@ -46,7 +46,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Moderation</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Als Moderation begleite ich Ihre Veranstaltung zielgerichtet und mit Blick auf den zeitlichen Rahmen. Mit einer konstruktiven und kreativen Atmosphäre, Humor und Methoden entwickeln wir konkrete Absprachen, die vom gesamten Team auch in herausfordernden Situationen getragen werden können.
+                                    Als Moderator begleite ich Ihre Veranstaltung zielgerichtet und mit Blick auf den zeitlichen Rahmen. Mit einer konstruktiven und kreativen Atmosphäre, Humor und passenden Methoden entwickeln wir gemeinsam Absprachen, die vom gesamten Team auch in herausfordernden Situationen getragen werden.
                                 </dd>
                             </div>
                         </dl>
@@ -57,10 +57,10 @@ export default function Organisationsentwicklung() {
                 <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
                     <div className="lg:text-center">
                         <p className="mt-2 text-3xl leading-8 tracking-tight text-burgund-700 sm:text-4xl">
-                            Strategieentwicklung und Change für soziale Organisationen
+                            Strategieentwicklung und Change
                         </p>
                         <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                            Wer sich auf einen Weg macht, hat meistens ein Ziel. Manchmal verändert es sich während der Reise, manchmal geht es schneller, manchmal langsamer. Wenn es notwendig wird, dass Sie Ihre Ziele, Ihre Fortbewegungsmittel oder Ihre Geschwindigkeit Ihrer Reise überdenken oder anpassen möchten, unterstütze ich Sie gerne.
+                            Veränderungsprozesse in Organisationen sind selten geradlinig. Ziele verschieben sich, Rahmenbedingungen ändern sich, und manchmal braucht es eine Standortbestimmung. Ich begleite Sie dabei, Ihre strategische Ausrichtung zu überdenken, anzupassen und gemeinsam mit Ihrem Team umzusetzen.
                         </p>
                     </div>
                     <div>
@@ -75,7 +75,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Konzepte und Wirksamkeit</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Pädagogische Teams arbeiten meist hochprofessionell und qualitativ zusammen. Um einen gemeinsamen Rahmen der Arbeit zu schaffen, erarbeite ich mit Ihnen Konzepte und Ziele, die messbar sind und sichtbar wirken.
+                                    Gute Arbeit braucht einen gemeinsamen Rahmen. Ich erarbeite mit Ihnen Konzepte und Ziele, die für alle im Team nachvollziehbar sind und deren Wirkung sichtbar wird.
                                 </dd>
                             </div>
                             <div className="relative">
@@ -88,7 +88,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Visionen und Werte</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Warum tun wir eigentlich das, was wir tun, genau so und nicht anders? Ich unterstütze Sie mit einem Blick von außen bei der Entwicklung oder der Aktualisierung von Einrichtungszielen, damit jede*r im Team und in der Organisation weiß, warum ihre und seine Arbeit wichtig ist.
+                                    Warum tun wir eigentlich das, was wir tun, genau so und nicht anders? Ich unterstütze Sie dabei, Ihre Ziele und Werte als Organisation zu entwickeln oder neu zu schärfen, damit Orientierung und Haltung im Team spürbar werden.
                                 </dd>
                             </div>
                             <div className="relative">
@@ -102,7 +102,7 @@ export default function Organisationsentwicklung() {
                                 <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Strategische Ausrichtung</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Veränderungen in Organisationen sind oft lange durchdacht und gut geplant. Damit die Umsetzung gelingt, entwickle ich mit Ihnen als Mitarbeiter*innen und als Leitung partizipative und lösungsorientierte Konzepte zur Implementierung von strategischer Veränderung. Damit wir nicht nur die Fallen, sondern auch die Möglichkeiten von Veränderung erkennen. 
+                                    Veränderungen in Organisationen sind oft gut durchdacht und scheitern trotzdem an der Umsetzung. Ich entwickle mit Ihnen und Ihrem Team Konzepte, die Mitarbeitende und Leitung gleichermaßen einbeziehen. So werden nicht nur Risiken sichtbar, sondern auch die Möglichkeiten, die Veränderung mit sich bringt.
                                 </dd>
                             </div>
                             <div className="relative">
@@ -113,10 +113,10 @@ export default function Organisationsentwicklung() {
                                         <path d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85v5.65z"/>
                                     </svg>
                                 </div>
-                                <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">New Work</p>
+                                <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Entscheidungskultur</p>
                                 </dt>
                                 <dd className="mt-2 ml-14 text-base text-gray-700">
-                                    Was heißt eigentlich New Work, hybride Kollaboration und agiles Arbeiten für soziale Organisationen? Um der (digitalen) Veränderung zu begegnen, braucht es Haltung, Wissen und Ideen zur Implementierung in ihre bestehenden Systeme. Wie eine Anpassung an neue digitale Tools oder die digitale Transformation in sozialen Organisationen gelingen kann, entwickle ich gerne mit Ihnen und Ihren Mitarbeiter*innen. 
+                                    Wie trifft eine Organisation eigentlich Entscheidungen? Wer wird einbezogen, wer nicht – und warum? Ich unterstütze Sie dabei, Entscheidungsprozesse transparent zu gestalten und eine Kultur zu entwickeln, in der Verantwortung klar verteilt und gemeinsam getragen wird.
                                 </dd>
                             </div>
                         </dl>
@@ -125,9 +125,9 @@ export default function Organisationsentwicklung() {
             </Section>
             <Section>
                 <div className="flex flex-col w-full lg:justify-center py-8 lg:py-16">
-                    <h1 className="text-3xl pb-4 text-center text-burgund-700">Benötigen Sie Unterstützung bei der Entwicklung Ihrer Organisation?</h1>
+                    <h1 className="text-3xl pb-4 text-center text-burgund-700">Lassen Sie uns ins Gespräch kommen.</h1>
                     <p>
-                        In einem kostenlosen Vorgespräch überlegen wir gemeinsam, wie ich Sie unterstützen kann. Sprechen Sie mich an!
+                        Schreiben Sie mir kurz, welche Fragen oder Themen Ihre Organisation gerade beschäftigen. In einem ersten, unverbindlichen Gespräch schauen wir gemeinsam, wie ich Sie und Ihr Team unterstützen kann.
                     </p>
                     <ContactForm></ContactForm>
                 </div>

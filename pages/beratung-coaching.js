@@ -13,17 +13,13 @@ export default function Beratung() {
                         Beratung & Coaching
                     </p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                        Jede*r von uns bringt Ressourcen mit, um Herausforderungen innerhalb seiner bestehenden Arbeits- oder Familiensysteme zu bearbeiten. Es gibt jedoch Situationen, in denen uns bekannte Lösungsversuche nicht zum gewünschten Erfolg führen. Das führt oft zu Verunsicherung oder Konflikten und bringt ein System aus dem Gleichgewicht.
+                        Es gibt Situationen, in denen die eigenen Antworten nicht mehr reichen – beruflich oder privat. Wenn Konflikte sich wiederholen, Rollen unklar werden oder eine Lebensphase Orientierung fordert, kann ein Blick von außen helfen.
                     </p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                        Wenn Sie für sich eine neue Perspektive auf den Umgang mit privaten oder beruflichen Belastungen finden möchten, wenn Sie sich in Ihren Rollen abgrenzen oder stärken möchten oder wenn Sie mehr Antworten als Fragen haben, kann Unterstützung von außen zur Perspektiverweiterung und zur Entwicklung von alternativen Lösungsmöglichkeiten hilfreich sein.
+                        In der systemischen Einzel- und Familienberatung begleite ich Sie dabei, Ihre Situation neu zu verstehen, eigene Muster zu erkennen und konkrete Veränderungen auszuprobieren. Nicht mit fertigen Lösungen – sondern im Dialog mit Ihnen.
                     </p>
-                    <h3 className="my-8 text-xl font-medium text-burgund-700">Ich biete Ihnen bei persönlichen Herausforderungen und Problemsituationen Unterstützung in Form von systemischer Beratung (DGSF) und Coachings an.</h3>
-                    <p className="text-lg max-w-3xl text-gray-700 lg:mx-auto">
-                        Dabei begleite ich Sie, eine Bewältigungsstrategie für Ihre aktuelle Krise zu finden und Ihre eigenen Denk- und Handlungsmuster besser zu verstehen. Ich möchte Sie einladen, Ihre Ressourcen neu zu entdecken Ihre Handlungsmöglichkeiten zu erweitern.
-                    </p>
-                    <p className="text-lg max-w-3xl text-gray-700 lg:mx-auto">
-                        Für mich stehen die individuellen Bedürfnisse und Wünsche der Klient*innen im Mittelpunkt meiner Arbeit. Ich lege darauf Wert, Ihr Anliegen in Verbindung mit Ihrem sozialen Umfeld und ihrem sozialen Familien-, Partnerschafts- oder Arbeitssystem zu betrachten - und Sie darin zu unterstützen, konkrete Veränderung auszuprobieren. 
+                    <p className="mt-4 text-lg max-w-3xl text-gray-700 lg:mx-auto">
+                        Dabei schauen wir gemeinsam, welche Muster Ihre Situation prägen und was sich verändern könnte. Ihr Umfeld – ob Familie, Partnerschaft oder Arbeit – spielt dabei immer eine Rolle.
                     </p>
                 </div>
             </div>
@@ -35,7 +31,7 @@ export default function Beratung() {
                     Unsere Zusammenarbeit
                     </p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                    In einem Erstgespräch lernen Sie mich und ich Sie kennen und wir betrachten Ihr persönliches Anliegen, um den Auftrag mit Zielen für die systemische Beratung zu klären. Am Ende der ersten Sitzung wird klar, ob wir uns eine Zusammenarbeit vorstellen können und welcher individuelle Beratungsintervall hilfreich ist.
+                    Im Erstgespräch lernen wir uns kennen und schauen gemeinsam auf Ihr Anliegen. Wir klären, was Sie sich von der Beratung erhoffen und wie eine Zusammenarbeit aussehen könnte – wie oft wir uns treffen und in welchem Rahmen.
                     </p>
                 </div>
                 <div>
@@ -47,11 +43,11 @@ export default function Beratung() {
                                     <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7Zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm-5.784 6A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216ZM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"/>
                                     </svg>
                                 </div>
-                                <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Systemische Einzelberatung</p>
+                                <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Einzelberatung</p>
                             </dt>
                             <dd className="mt-2 ml-14 text-base text-gray-700">
                                 <p className="">
-                                    Mein Stundensatz für eine Einzelberatung liegt bei 100€ / 60 Minuten und 130€ / 90 Minuten.
+                                    160€ / 60 Minuten und 240€ / 90 Minuten.
                                 </p>
                             </dd>
                         </div>
@@ -62,22 +58,23 @@ export default function Beratung() {
                                     <path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v3h8v-3zM6 8a2 2 0 11-4 0 2 2 0 014 0zM16 18v-3a5.972 5.972 0 00-.75-2.906A3.005 3.005 0 0119 15v3h-3zM4.75 12.094A5.973 5.973 0 004 15v3H1v-3a3 3 0 013.75-2.906z" />
                                     </svg>
                                 </div>
-                                <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Systemische Familienberatung</p>
+                                <p className="ml-14 text-lg leading-6 font-serif font-medium text-gray-900">Mehrpersonenberatung</p>
                             </dt>
                             <dd className="mt-2 ml-14 text-base text-gray-700">
-                                Mein Stundensatz für eine Familienberatung liegt bei 120€ / 60 Minuten und 140€ / 90 Minuten.
+                                180€ / 60 Minuten und 270€ / 90 Minuten.
                             </dd>
                         </div>
                     </dl>
                 </div>
                 <div className="mt-4 text-small text-gray-900">
-                    Die Kosten für eine systemische Beratung werden nicht von gesetzlichen Krankenkassen übernommen. Nach Absprache ist möglich, den Preis für die Beratung bei finanziellen Herausforderungen individuell zu vereinbaren. Bitte sprechen Sie mich an!
+                     Die Kosten werden nicht von gesetzlichen Krankenkassen übernommen. Wenn Sie Fragen zur Finanzierung haben oder eine individuelle Vereinbarung treffen möchten, sprechen Sie mich gerne an.
                 </div>
             </div>
         </Section>
         <Section>
             <div className="flex flex-col w-full lg:justify-center py-8 text-gray-900">
-                <h3 className="mt-2 text-base">Gerne kläre ich mit Ihnen in einem unverbindlichen Vorgespräch, was für Ihr Anliegen das passende Vorgehen sein kann.</h3>
+                <h1 className="text-3xl pb-4 text-center text-burgund-700">Lassen Sie uns ins Gespräch kommen.</h1>
+                <p className="mt-2 text-base">Schreiben Sie mir kurz, was Sie bewegt. In einem ersten, unverbindlichen Gespräch finden wir gemeinsam heraus, was der nächste sinnvolle Schritt für Sie sein kann.</p>
                 <ContactForm></ContactForm>
             </div>
         </Section>
