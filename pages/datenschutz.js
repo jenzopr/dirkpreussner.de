@@ -3,7 +3,7 @@ import Section from "../components/section";
 import Link from 'next/link';
 
 export default function Datenschutz() {
-    return(
+    return (
         <>
             <Meta></Meta>
             <Section className="bg-white">
@@ -177,10 +177,10 @@ export default function Datenschutz() {
                             </li>
                         </ul>
                     <span className="mt-2 text-xs">
-                        Erstellt mit dem kostenlosen <Link href="https://datenschutz-generator.de/"><a target="_blank">Datenschutz-Generator von Dr. Thomas Schenke</a></Link>. Vom Websiteinhaber angepasst. 
+                        Erstellt mit dem kostenlosen <Link href="https://datenschutz-generator.de/" target="_blank">Datenschutz-Generator von Dr. Thomas Schenke</Link>. Vom Websiteinhaber angepasst. 
                     </span>
                 </div>
             </Section>
         </>
-    )
+    );
 }
