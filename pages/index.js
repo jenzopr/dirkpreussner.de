@@ -15,7 +15,7 @@ export default function Home() {
               <h1 className='text-2xl lg:text-4xl text-burgund-600 md:text-burgund-900 md:font-semibold pb-4'>Veränderung braucht manchmal Begleitung.</h1>
               <div className='lg:text-lg text-gray-700'>
                 <p>Vielleicht läuft ein Konflikt in Ihrem Team schon zu lange. Vielleicht haben Sie eine neue Führungsrolle übernommen und fragen sich, wie Sie die richtig ausfüllen. Vielleicht suchen Sie Unterstützung bei einem persönlichen Anliegen, in der Familie oder in einer Lebensphase, die sich gerade bei Ihnen verändert.</p>
-                <p>Als Berater und Supervisor begleite ich Menschen und Teams im Bildungs-, Sozial- und Non-Profit-Bereich und Einzelpersonen in beruflichen wie persönlichen Situationen, mit ganz unterschiedlichen Anliegen.</p>
+                <p>Als Supervisor und Coach begleite ich Menschen und Teams im Bildungs-, Sozial- und Non-Profit-Bereich und Einzelpersonen in beruflichen wie persönlichen Situationen, mit ganz unterschiedlichen Anliegen.</p>
               </div>
           </div>
         </div>
@@ -51,6 +51,12 @@ export default function Home() {
             <ol className="relative border-l border-gray-200 dark:border-gray-700">
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                  <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">TOPS München-Berlin</span>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Supervisor und Coach (DGSv)</h3>
+                  <p className="text-base font-normal text-gray-500 dark:text-gray-400">Gruppendynamische Supervision mit systemischen und psychoanalytischen Konzepten</p>
+              </li>
+              <li className="mb-10 ml-4">
+                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">pecon-Akademie Mannheim</span>
                   <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Gruppendynamischer Leiter (DGGO)</h3>
                   <p className="text-base font-normal text-gray-500 dark:text-gray-400">Experte für Prozessmanagement und Gruppendynamik</p>
@@ -66,7 +72,13 @@ export default function Home() {
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Bundesverband Kulturarbeit in der ev. Jugend e.V.</span>
                   <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Spiel- und Theaterpädagoge (bka)</h3>
                   <p className="text-base font-normal text-gray-500 dark:text-gray-400">2-jährige Ausbildung, u.a. bei Carola Unser, Nicole Amsbeck und Uli Geißler</p>
-              </li>                  
+              </li>
+              <li className="mb-10 ml-4">
+                  <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                  <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">like a zebra</span>
+                  <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-900">Trained facilitator of LEGO® SERIOUS PLAY® method and materials</h3>
+                  <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Co-kreative Workshopgestaltung für Teams und Organisationen</p>
+              </li>              
               <li className="mb-10 ml-4">
                   <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                   <span className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Goethe-Universität Frankfurt</span>
