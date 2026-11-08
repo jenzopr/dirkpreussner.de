@@ -14,14 +14,14 @@ export default function Navbar({children}) {
                     <Link href="/">
                         <div className="md:py-2">
                             <p className="text-xl font-semibold text-gray-900">Dirk Preußner</p>
-                            <p className="text-sm -mt-2 text-gray-900">Beratung & Entwicklung</p>
+                            <p className="text-sm -mt-2 text-gray-900">Supervision & Beratung</p>
                         </div>
                     </Link>
                     
                     <div className="hidden md:flex space-x-2 lg:space-x-4 text-gray-900">
                         <Link
                             href="/beratung-coaching"
-                            className="text-sm font-semibold p-2 border-b-2 lg:text-base lg:p-4 hover:text-burgund-500 hover:border-burgund-500">Beratung & Coaching</Link>
+                            className="text-sm font-semibold p-2 border-b-2 lg:text-base lg:p-4 hover:text-burgund-500 hover:border-burgund-500">Supervision & Coaching</Link>
                         <Link
                             href="/workshops-moderation"
                             className="text-sm font-semibold p-2 border-b-2 lg:text-base lg:p-4 hover:text-burgund-500 hover:border-burgund-500">Workshops & Moderation</Link>

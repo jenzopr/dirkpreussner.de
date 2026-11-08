@@ -15,7 +15,7 @@ export default function Beratung() {
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
                         Es gibt Situationen, in denen die eigenen Antworten nicht mehr reichen. Das gilt im Beruf ebenso wie im privaten Leben. Wenn Konflikte sich wiederholen, Rollen unklar werden oder eine Lebensphase Orientierung fordert, kann ein Blick von außen helfen.
                     </p>
-                    <p className="mt-2 text-xl leading-8 font-serif font-medium text-burgund-600 sm:text-4xl">Im beruflichen Kontext</p>
+                    <p className="mt-2 text-lg leading-8 font-serif font-medium text-gray-900">Im beruflichen Kontext</p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
                         Wer in Bildung, Sozialer Arbeit oder Non-Profit-Organisationen arbeitet, kennt das Zusammenspiel von hohem Engagement, komplexen Strukturen und wenig Raum zum Innehalten. Supervision schafft diesen Raum, für Einzelne und für Teams.
                     </p>
@@ -25,7 +25,7 @@ export default function Beratung() {
                     <p className="mt-4 text-lg max-w-3xl text-gray-700 lg:mx-auto">
                         Ich biete Einzelsupervision, Team- und Fallsupervision sowie Leitungssupervision an. Als Supervisor (DGSv) verbinde ich systemisches Denken mit gruppendynamischer Erfahrung. Mein Blick richtet sich deshalb nicht nur auf einzelne Personen, sondern auch auf das, was zwischen Menschen, in Teams und in Organisationen geschieht.
                     </p>
-                    <p className="mt-2 text-xl leading-8 font-serif font-medium text-burgund-600 sm:text-4xl">Bei persönlichen Anliegen</p>
+                    <p className="mt-2 text-lg leading-8 font-serif font-medium text-gray-900">Bei persönlichen Anliegen</p>
                     <p className="mt-4 text-lg max-w-3xl text-gray-700 lg:mx-auto">
                         In der systemischen Einzel-, Paar- und Familienberatung begleite ich Sie dabei, Ihre Situation neu zu verstehen, wiederkehrende Muster zu erkennen und konkrete Veränderungen auszuprobieren. Dabei arbeite ich nicht mit fertigen Lösungen, sondern im Dialog mit Ihnen.
                     </p>
