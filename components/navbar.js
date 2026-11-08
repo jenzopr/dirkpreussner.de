@@ -20,7 +20,7 @@ export default function Navbar({children}) {
                     
                     <div className="hidden md:flex space-x-2 lg:space-x-4 text-gray-900">
                         <Link
-                            href="/beratung-coaching"
+                            href="/supervision-coaching"
                             className="text-sm font-semibold p-2 border-b-2 lg:text-base lg:p-4 hover:text-burgund-500 hover:border-burgund-500">Supervision & Coaching</Link>
                         <Link
                             href="/workshops-moderation"
@@ -43,7 +43,7 @@ export default function Navbar({children}) {
                 <div className={`md:hidden ${expandedMenu? "" : "hidden"}`}>
                     <div className="px-2 pt-2 pb-3 sm:px-6 lg:px-8 space-y-1 text-right border-b-4 border-burgund-500">
                         <Link
-                            href="/beratung-coaching"
+                            href="/supervision-coaching"
                             onClick={toggle}
                             className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Supervision & Coaching</Link>
                         <Link
