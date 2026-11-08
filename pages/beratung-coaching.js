@@ -10,18 +10,26 @@ export default function Beratung() {
             <div className="flex flex-col w-full lg:justify-center pb-8 lg:pt-16">
                 <div className="lg:text-center">
                     <p className="mt-2 text-3xl leading-8 tracking-tight text-burgund-600 sm:text-4xl">
-                        Beratung & Coaching
+                        Supervision & Coaching
                     </p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                        Es gibt Situationen, in denen die eigenen Antworten nicht mehr reichen – beruflich oder privat. Wenn Konflikte sich wiederholen, Rollen unklar werden oder eine Lebensphase Orientierung fordert, kann ein Blick von außen helfen.
+                        Es gibt Situationen, in denen die eigenen Antworten nicht mehr reichen. Das gilt im Beruf ebenso wie im privaten Leben. Wenn Konflikte sich wiederholen, Rollen unklar werden oder eine Lebensphase Orientierung fordert, kann ein Blick von außen helfen.
                     </p>
+                    <p className="mt-2 text-xl leading-8 font-serif font-medium text-burgund-600 sm:text-4xl">Im beruflichen Kontext</p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                        In der systemischen Einzel- und Familienberatung begleite ich Sie dabei, Ihre Situation neu zu verstehen, eigene Muster zu erkennen und konkrete Veränderungen auszuprobieren. Nicht mit fertigen Lösungen – sondern im Dialog mit Ihnen.
+                        Wer in Bildung, Sozialer Arbeit oder Non-Profit-Organisationen arbeitet, kennt das Zusammenspiel von hohem Engagement, komplexen Strukturen und wenig Raum zum Innehalten. Supervision schafft diesen Raum, für Einzelne und für Teams.
                     </p>
                     <p className="mt-4 text-lg max-w-3xl text-gray-700 lg:mx-auto">
-                        Dabei schauen wir gemeinsam, welche Muster Ihre Situation prägen und was sich verändern könnte. Ihr Umfeld – ob Familie, Partnerschaft oder Arbeit – spielt dabei immer eine Rolle.
+                        Gemeinsam schauen wir auf Zusammenarbeit, Rollen und Aufgaben und darauf, wie sie mit der Organisation zusammenhängen.
                     </p>
-                </div>
+                    <p className="mt-4 text-lg max-w-3xl text-gray-700 lg:mx-auto">
+                        Ich biete Einzelsupervision, Team- und Fallsupervision sowie Leitungssupervision an. Als Supervisor (DGSv) verbinde ich systemisches Denken mit gruppendynamischer Erfahrung. Mein Blick richtet sich deshalb nicht nur auf einzelne Personen, sondern auch auf das, was zwischen Menschen, in Teams und in Organisationen geschieht.
+                    </p>
+                    <p className="mt-2 text-xl leading-8 font-serif font-medium text-burgund-600 sm:text-4xl">Bei persönlichen Anliegen</p>
+                    <p className="mt-4 text-lg max-w-3xl text-gray-700 lg:mx-auto">
+                        In der systemischen Einzel-, Paar- und Familienberatung begleite ich Sie dabei, Ihre Situation neu zu verstehen, wiederkehrende Muster zu erkennen und konkrete Veränderungen auszuprobieren. Dabei arbeite ich nicht mit fertigen Lösungen, sondern im Dialog mit Ihnen.
+                    </p>
+                    </div>
             </div>
         </Section>
         <Section className="bg-white">
@@ -31,7 +39,7 @@ export default function Beratung() {
                     Unsere Zusammenarbeit
                     </p>
                     <p className="mt-4 max-w-3xl text-lg text-gray-700 lg:mx-auto">
-                    Im Erstgespräch lernen wir uns kennen und schauen gemeinsam auf Ihr Anliegen. Wir klären, was Sie sich von der Beratung erhoffen und wie eine Zusammenarbeit aussehen könnte – wie oft wir uns treffen und in welchem Rahmen.
+                        Im Erstgespräch lernen wir uns kennen und schauen gemeinsam auf Ihr Anliegen. Wir klären, was Sie sich erhoffen, wie oft wir uns treffen und in welchem Rahmen. Bei Team- und Leitungssupervision beziehe ich auch die Organisation in die Auftragsklärung ein, damit Ziele und Rahmen für alle Beteiligten transparent sind.
                     </p>
                 </div>
                 <div>

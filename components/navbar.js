@@ -45,7 +45,7 @@ export default function Navbar({children}) {
                         <Link
                             href="/beratung-coaching"
                             onClick={toggle}
-                            className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Beratung & Coaching</Link>
+                            className="hover:bg-burgund-500 hover:text-white block px-3 py-3 rounded-md text-base font-medium">Supervision & Coaching</Link>
                         <Link
                             href="/workshops-moderation"
                             onClick={toggle}
